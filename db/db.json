@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Classic Burger",
+      "meal": "dinner",
       "image": "https://foodish-api.herokuapp.com/images/burger/burger10.jpg",
       "ingredients": [
         "1 pound ground beef",
@@ -19,6 +20,7 @@
     {
       "id": 2,
       "name": "Sizzling Sherry Shrimp with Garlic",
+      "meal": "dinner",
       "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F968397.jpg",
       "ingredients": [
         "1 tablespoon olive oil",
@@ -38,6 +40,7 @@
     {
       "id": 3,
       "name": "Grilled Cheese Sandwich",
+      "meal": "lunch",
       "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Best-Grilled-Cheese-Sandwich-683x1024.webp",
       "ingredients": [
         "4 slices white bread",
@@ -56,6 +59,7 @@
     {
       "id": 4,
       "name": "Basil Chicken Sandwiches",
+      "meal": "lunch",
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Basil-Chicken-Sandwiches_EXPS_QEBZ20_24340_B01_22_1b.jpg?fit=700,1024",
       "ingredients": [
         "1/2 teaspoon pepper",
@@ -76,6 +80,7 @@
     {
       "id": 5,
       "name": "Classic Waffles",
+      "meal": "breakfast",
       "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F03%2F09%2F20513-classic-waffles-mfs-023.jpg",
       "ingredients": [
         "2 cups all-purpose flour",
@@ -96,6 +101,7 @@
     {
       "id": 6,
       "name": "Classic Hash Browns",
+      "meal": "breakfast",
       "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F04%2F21%2F220520-classic-hash-browns-buckwheatqueen-1x1-1.jpg",
       "ingredients": [
         "2 russet potatoes, peeled",
@@ -113,6 +119,7 @@
     {
       "id": 7,
       "name": "Chocolate Chip Cookies",
+      "meal": "dessert",
       "image": "https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-1.jpg",
       "ingredients": [
         "1 cup salted butter* softened",
@@ -140,7 +147,8 @@
     },
     {
       "id": 8,
-      "name": "Chocoalte Banana Bundles",
+      "name": "Chocolate Banana Bundles",
+      "meal": "dessert",
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Chocolate-Banana-Bundles_EXPS_CIMZ18_120059_B09_05_4b-2.jpg?fit=700,1024",
       "ingredients": [
         "2 tablespoons butter",

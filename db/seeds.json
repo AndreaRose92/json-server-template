@@ -163,6 +163,22 @@
         "Unfold puff pastry; cut into 4 rectangles. Place a halved banana in center of each square. Overlap 2 opposite corners of pastry over banana; pinch tightly to seal. Place on parchment-lined baking sheets.",
         "Bake until golden brown, 20-25 minutes. Drizzle with chocolate. Serve warm, with ice cream if desired."
       ]
+    },
+    {
+      "id": 9,
+      "name": "",
+      "meal": "snack",
+      "image": "",
+      "ingredients": [],
+      "directions": []
+    },
+    {
+      "id": 10,
+      "name": "",
+      "meal": "snack",
+      "image": "",
+      "ingredients": [],
+      "directions": []
     }
   ]
 }
